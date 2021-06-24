@@ -34,8 +34,6 @@ As the tolerances of different models of 3D printers and different 3D printing m
 
 The user can test these parts with different print settings, such as varying layer height and infill, for optimisation.
 
-![](https://github.com/gemmacairns/3D-Printed-Microscopes/blob/master/3D%20Printer%20Design%20Files/Instruction%20Clips/Test%20Pieces.PNG)
-
 ### Altering Design Dimensions Based on Test Pieces
 
 Once you have determined what rod hole radius to use based on the test pieces, you can then alter the FreeCAD designs accordingly, if needed.
