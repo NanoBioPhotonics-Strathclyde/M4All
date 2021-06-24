@@ -15,7 +15,7 @@ To address the differences in printing tolerances between different 3D printers,
 ## Design Files and Build Instructions
 
 All of our designs are produced using the open source CAD software FreeCAD (https://www.freecadweb.org/).
-For FreeCAD and STL design files please see the "3D Printer Design Files" folder.
+For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/Gemma/3D%20Printer%20Design%20Files) folder.
 This section also includes build instructions.
 
 ## Control Software
