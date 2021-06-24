@@ -6,7 +6,7 @@ STL files for 3D printing can be found in the [STL Files](https://github.com/Nan
 
 ## FreeCAD Instructions
 
-Upon opening the Designs FreeCAD file you will see that the designs are all grouped into diffent areas:
+Upon opening the FreeCAD file named "Designs" you will see that the designs are all grouped into diffent areas:
 
 * **Basic Cubes** are the basic building blocks of the modular system. Included are various cube designs with different numbers of sides cut out for joining together in different orientations for the optical system that the user requires. The cubes have screw holes in the bottom to allow them to be screwed onto an optical table, using M6 screws, for stability and to lock separate parts together. The cubes have 6mm rod holes compatible with 30mm cage system optomechanics.
 * **Open Ended Cubes** are similar to the basic cubes but have entire walls cut out for creating extended cubes where maybe a wall would be at a position where you would like an optical element to be placed.
