@@ -63,22 +63,6 @@ Individual cube lids can also be joined together in this way to create monolithi
 
 ![](https://github.com/gemmacairns/3D-Printed-Microscopes/blob/master/3D%20Printer%20Design%20Files/Instruction%20Clips/HowToJoinCubes.gif)
 
-### 25mm x 36mm Beamsplitter Cubes
-
-You will notice that there are three different options for cubes to specifically hold 25mm x 36mm optics such as plate beamsplitters and dichroics. The size of these optical parts mean they are not compatible with the 30mm cage system and so we have designed specific cubes for this purpose.
-
-Note: The current designs are to hold a plate thickness of 1mm, but this can be altered in FreeCAD.
-
-1. **Beamsplitter Cube** has a plate holder that is monolithically printed inside the cube. Two bars can then be screwed in place using M3 screws to hold the optic in place. As the screws need to be screwed in through the holes in the cube walls, this part is only suitable if printed as a single cube and not joined to others where these walls would be blocked.
-2. **Beamsplitter Cube001** is similar to the first option, however this design includes a plate locker that slides into two gaps on the bottom of the cube and screws onto the top of the plate. Therefore this cube can be joined to others and printed monolithically.
-3. **Beamsplitter Cube002** has the plate holder separate from the cube. The cube includes a section where the plate holder can be inserted into and the same bars as in the first option are included for holding the optic in place.
-
-It is recommended to print these with either support material or if using Cura to enable bridge settings. I have uploaded the settings file used for our Ultimaker S5 here...
-
-For option 2, if you find that your optical element is not sitting completely vertical (e.g. if there is an angle to the reflected and transmitted beams), you can add shims to the inside of the plate locker by adding layers of electrical tape to either the top or bottom.
-
-Option 3 has not yet been fully tested.
-
 ### Inserts
 
 The orientation of the inserts in FreeCAD are the recommended printing orientation. Again the test pieces can be used to determine which rod hole radius to use.
