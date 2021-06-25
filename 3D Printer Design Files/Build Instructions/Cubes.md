@@ -1,5 +1,7 @@
 # Cubes
 
+## Basic Cubes
+
 The image below shows the various cube designs under "Basic Cubes". These are as follows:
   * The cube with no sides cut out can be used as a filler cube, for example if you need an extra cube to use with an attachment for another part or piece of equipment. For example we use one of these when using the adapter for the OpenFlexure microscope.
   * The cube with one side cut out can be used as an end cube in a system.
@@ -9,9 +11,13 @@ The image below shows the various cube designs under "Basic Cubes". These are as
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/Cubes.PNG" height=425 width=700>
 
+## Open Ended Cubes
+
 The next section is "Open Ended Cubes". These can be used in the case where you need a cube with a length larger than 50mm. For example if an optical element needs to sit where a wall would be positioned or if you need to be able to slide elements back and forth. There are two open ended cube designs:
   * The first has one side open ended. You can join two of these together to create a 100mm long cube.
   * The second has both sides open ended so if you require longer than 100mm then you can place as many of these in the middle of two single open ended cubes as required.
+
+## 25mm x 36mm Beamsplitter Cubes
   
 The third section of cubes is "25mm x 36mm Beamsplitter Cubes". As 25mm x 36mm rectangular optics are not compatible with the 30mm cage system we have designed three different cube options for holding this size of optics:
 
@@ -26,3 +32,5 @@ It is recommended to print these with either support material or if using Cura t
 For option 2, if you find that your optical element is not sitting completely vertical (e.g. if there is an angle to the reflected and transmitted beams), you can add shims to the inside of the plate locker by adding layers of electrical tape to either the top or bottom.
 
 Option 3 has not yet been fully tested.
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BeamsplitterCubes.png" height=350 width=1000>
