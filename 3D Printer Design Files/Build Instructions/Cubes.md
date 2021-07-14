@@ -37,4 +37,6 @@ Option 3 has not yet been fully tested.
 
 ## Cube Lids
 
-There are two screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup. One is a lid that covers one full cube. The other is half a lid (split disgonally) to cover half a cube. This second option is to fit with the second option OpenFlexure stage adapter (see build instructions).
+There are two screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup. One is a lid that covers one full cube. The other is half a lid (split diagonally) to cover half a cube. This second option is to fit with the second option OpenFlexure stage adapter (see build instructions). These lids can be joined together in FreeCAD to print monolithically to cover multiple cubes.
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/Lids.png" height=350 width=550>
