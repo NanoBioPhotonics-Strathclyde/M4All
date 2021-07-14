@@ -34,3 +34,7 @@ For option 2, if you find that your optical element is not sitting completely ve
 Option 3 has not yet been fully tested.
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BeamsplitterCubes.png" height=350 width=1000>
+
+## Cube Lids
+
+There are two screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup. One is a lid that covers one full cube. The other is half a lid (split disgonally) to cover half a cube. This second option is to fit with the second option OpenFlexure stage adapter (see build instructions).
