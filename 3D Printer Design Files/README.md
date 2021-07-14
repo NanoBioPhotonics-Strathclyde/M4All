@@ -6,12 +6,13 @@ STL files for 3D printing can be found in the [STL Files](https://github.com/Nan
 
 ## FreeCAD Instructions
 
-Upon opening the FreeCAD file named "Designs" you will see that the designs are all grouped into different areas (further information on these can be found in [Build Instructions](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/Build%20Instructions):
+Upon opening the FreeCAD file named "Designs" you will see that the designs are all grouped into different areas (further information on these can be found in [Build Instructions](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/Build%20Instructions)):
 
-* **Basic Cubes** are the basic building blocks of the modular system. Included are various cube designs with different numbers of sides cut out for joining together in different orientations for the optical system that the user requires. The cubes have screw holes in the bottom to allow them to be screwed onto an optical table, using M6 screws, for stability and to lock separate parts together. The cubes have 6mm rod holes compatible with 30mm cage system optomechanics.
-* **Open Ended Cubes** are similar to the basic cubes but have entire walls cut out for creating extended cubes where maybe a wall would be at a position where you would like an optical element to be placed.
-* **Cube Lids** are screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup. 
-* **25mm x 36mm Beamsplitter Cubes** include three different options for specifically holding 25mm x 36mm plate beamsplitters/dichroics/ mirrors (more details below).
+* **Cubes**:
+  * **Basic Cubes** are the basic building blocks of the modular system. Included are various cube designs with different numbers of sides cut out for joining together in different orientations for the optical system that the user requires. The cubes have screw holes in the bottom to allow them to be screwed onto an optical table, using M6 screws, for stability and to lock separate parts together. The cubes have 6mm rod holes compatible with 30mm cage system optomechanics.
+  * **Open Ended Cubes** are similar to the basic cubes but have entire walls cut out for creating extended cubes where maybe a wall would be at a position where you would like an optical element to be placed. 
+  * **25mm x 36mm Beamsplitter Cubes** include three different options for specifically holding 25mm x 36mm plate beamsplitters/dichroics/ mirrors.
+  * **Cube Lids** are screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup.
 * **Inserts** includes design files for holding different optical elements using the 30mm cage system. So far these include:
   * a 45 degree 1 inch mirror holder
   * a 1 inch plate dichroic holder with plate to lock dichoic in place.
