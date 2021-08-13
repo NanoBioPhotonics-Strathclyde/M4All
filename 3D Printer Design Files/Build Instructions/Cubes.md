@@ -27,7 +27,7 @@ Note: The current designs are to hold a plate thickness of 1mm, but this can be 
 2. **Beamsplitter Cube001** is similar to the first option, however this design includes a plate locker that slides into two gaps on the bottom of the cube and screws onto the top of the plate. Therefore this cube can be joined to others and printed monolithically.
 3. **Beamsplitter Cube002** has the plate holder separate from the cube. The cube includes a section where the plate holder can be inserted into and the same bars as in the first option are included for holding the optic in place.
 
-It is recommended to print these with either support material or if using Cura to enable bridge settings. I have uploaded the settings file used for our Ultimaker S5 here...
+It is recommended to print these with either support material or if using Cura to enable bridge settings.
 
 For option 2, if you find that your optical element is not sitting completely vertical (e.g. if there is an angle to the reflected and transmitted beams), you can add shims to the inside of the plate locker by adding layers of electrical tape to either the top or bottom.
 
