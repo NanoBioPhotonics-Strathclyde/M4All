@@ -26,9 +26,11 @@ Again the dimensions of the part can be altered in FreeCAD if different sized op
 
 This part has a slight indent for the camera module to fit into with a gap at the back for space for the electronics. There are 4 screw holes to hold the camera module in place with nuts at the back. The insert also has a cut out at the top for the camera cable. On the top of the insert there are self tapping M3 screw holes to provide some friction between the insert and the rods to hold it in place.
 
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/PiCameraV2Holder.png" height=525 width=700>
 
+## 1 Inch Lens Holder
 
-
+This part is designed to hold a 1 inch lens. 
 
 
 4. **1 Inch Lens Holder** will fit various thicknesses of 1 inch lenses which can be held in place with the retaining ring design. If a greater thickness is required the FreeCAD design can be modified. The top of the insert again has screw holes to hole the insert in place on the metal rods.
