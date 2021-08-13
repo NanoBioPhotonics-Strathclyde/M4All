@@ -17,6 +17,8 @@ The next section is "Open Ended Cubes". These can be used in the case where you 
   * The first has one side open ended. You can join two of these together to create a 100mm long cube.
   * The second has both sides open ended so if you require longer than 100mm then you can place as many of these in the middle of two single open ended cubes as required.
 
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenEndedCubes.png" height=350 width=500>
+
 ## 25mm x 36mm Beamsplitter Cubes
   
 The third section of cubes is "25mm x 36mm Beamsplitter Cubes". As 25mm x 36mm rectangular optics are not compatible with the 30mm cage system we have designed three different cube options for holding this size of optics:
