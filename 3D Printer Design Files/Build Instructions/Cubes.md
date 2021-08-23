@@ -1,6 +1,6 @@
 # Cubes
 
-The cubes are all printed in the same orientation that they appear on FreeCAD. We print these on our Ultimaker S5 with a layer height of 0.15mm and infill of 80% or more. In order to avoid needing to use support material, I also enable bridge settings on Cura with the settings as shown below:
+The cubes and lids are all printed in the same orientation that they appear on FreeCAD. We print these on our Ultimaker S5 with a layer height of 0.15mm and infill of 80% or more. In order to avoid needing to use support material for the cubes, I also enable bridge settings on Cura with the settings as shown below:
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BridgeSettings.png" height=425 width=400>
 
