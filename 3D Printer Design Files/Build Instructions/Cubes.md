@@ -1,5 +1,9 @@
 # Cubes
 
+The cubes and lids are all printed in the same orientation that they appear on FreeCAD, with the exception of the locking plates for the beamsplitter cubes - these will need to be reorientated in your 3D printing software such as Cura. We print the cubes and lids on our Ultimaker S5 with a layer height of 0.15mm and infill of 80% or more. In order to avoid needing to use support material for the cubes, I also enable bridge settings on Cura with the settings as shown below:
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BridgeSettings.png" height=425 width=400>
+
 ## Basic Cubes
 
 The image below shows the various cube designs under "Basic Cubes". These are as follows:
