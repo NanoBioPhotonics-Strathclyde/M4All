@@ -4,7 +4,7 @@ The orientation of the inserts in FreeCAD are the recommended printing orientati
 
 The only two that require to be printed with support material are the 45 Degree Mirror Holder and the 1 Inch Dichroic Holder. For the 45 Degree Mirror Holder you can either use PLA as the support material or specific support material like PVA. For the 1 Inch Dichroic Holder it needs to be dissolvable support material like PVA.
 
-We print these on an Ultimaker S5 using 0.2mm layer height and 50% infill on Cura. You can increase the infill for increased strength and you can also reduce the layer height for greater accuracy. So far we have only printed these in standared Ultimaker PLA.
+We print all the inserts on an Ultimaker S5 using 0.2mm layer height and 50% infill on Cura. You can increase the infill for increased strength and you can also reduce the layer height for greater accuracy. So far we have only printed these in standared Ultimaker PLA.
 
 ## 45 Degree Mirror Holder
 
