@@ -1,6 +1,10 @@
 # Inserts
 
-The orientation of the inserts in FreeCAD are the recommended printing orientation.
+The orientation of the inserts in FreeCAD are the recommended printing orientation, with the exception of the Dichroic Locker - this will need laid flat in your 3D printing software before printing. 
+
+The only two that require to be printed with support material are the 45 Degree Mirror Holder and the 1 Inch Dichroic Holder. For the 45 Degree Mirror Holder you can either use PLA as the support material or specific support material like PVA. For the 1 Inch Dichroic Holder it needs to be dissolvable support material like PVA.
+
+We print these on an Ultimaker S5 using 0.2mm layer height and 50% infill on Cura. You can increase the infill for increased strength and you can also reduce the layer height for greater accuracy. So far we have only printed these in standared Ultimaker PLA.
 
 ## 45 Degree Mirror Holder
 
@@ -26,11 +30,20 @@ Again the dimensions of the part can be altered in FreeCAD if different sized op
 
 This part has a slight indent for the camera module to fit into with a gap at the back for space for the electronics. There are 4 screw holes to hold the camera module in place with nuts at the back. The insert also has a cut out at the top for the camera cable. On the top of the insert there are self tapping M3 screw holes to provide some friction between the insert and the rods to hold it in place.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/PiCameraV2Holder.png" height=525 width=700>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/PiCameraV2Holder.png" height=300 width=300>
 
 ## 1 Inch Lens Holder
 
-This part is designed to hold a 1 inch lens. 
+This part is designed to hold a 1 inch lens or filter which can be held in place with the retaining ring design. The top of the insert again has M3 screw holes to hold the insert in place on the metal rods. 
 
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/1InchLensHolder.png" height=300 width=300>
 
-4. **1 Inch Lens Holder** will fit various thicknesses of 1 inch lenses which can be held in place with the retaining ring design. If a greater thickness is required the FreeCAD design can be modified. The top of the insert again has screw holes to hole the insert in place on the metal rods.
+If a greater thickness is required to hold thicker optics the FreeCAD design can be modified by increasing the "Base Square Pad" value as shown below. You can also make this smaller as well. Only changing this value should keep the thickness of the lip the same for holding the lens in place.
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/EditLensHolder.png" height=425 width=800>
+
+## Drop in Filter Holder
+
+This part is designed to hold a 1 inch filter and can be easily dropped on and off the metal rods if you don't want it to be permanently in place so that nothing else in the system needs to be moved if you want to take it in and out. Again the 1 inch retaining ring can be used to hold the filter in place. Note: You can again increase the "Base Square Pad", however if the filter holder is too thick you won't be able to drop it in between the cage rods. This current thickness works, however I have not yet confirmed the limit on this thickness.
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DropInFilterHolder.png" height=300 width=300>
