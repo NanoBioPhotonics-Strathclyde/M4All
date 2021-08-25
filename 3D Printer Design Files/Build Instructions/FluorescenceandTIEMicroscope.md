@@ -26,6 +26,9 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
 * 1x Dichroic Locker
 * 4x Drop In Filter Holder
 * 1 x Fluorescence Branch
+* 1x Fluorescence Channel Lid
+* 1x OpenFlexure Stage Adapter Corner Cut Out
 * 3x TIE Branch
+* 3x TIE Channel Lid
 * 3x Raspberry Pi Camera V2 Holder
 
