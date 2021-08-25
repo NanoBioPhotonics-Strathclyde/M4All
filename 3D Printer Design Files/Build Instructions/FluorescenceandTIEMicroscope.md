@@ -9,3 +9,23 @@ For TIE microscopy, you need to acquire three brightfield images at three differ
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TIEMicroscope2.png" height=500 width=1000>
 
+## Parts to Print
+
+All the STL files needed for this microscope can be found in [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Fluorescence%20and%20TIE%20Microscope).
+
+These are the two main cube parts:
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TIEMicroscope.png" height=500 width=625>
+
+STL files to print:
+
+* 1x 1 Inch Dichroic Holder
+* 4x 1 Inch Lens Holder
+* 4x 1 Inch Retaining Ring
+* 1x 45 Degree Mirror Holder
+* 1x Dichroic Locker
+* 4x Drop In Filter Holder
+* 1 x Fluorescence Branch
+* 3x TIE Branch
+* 3x Raspberry Pi Camera V2 Holder
+
