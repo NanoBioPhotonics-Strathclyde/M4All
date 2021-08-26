@@ -12,9 +12,22 @@ To address the differences in printing tolerances between different 3D printers,
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TestPieceDiagram.png" height=400 width=600>
 
+## Applications
+
+We have used this sytem to design and build two different microscopes.
+
+The first is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md):
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TIEMicroscope2.png" height=500 width=1000>
+
+The second is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md):
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=1000>
+
 ## Design Files and Build Instructions
 
 All of our designs are produced using the open source CAD software FreeCAD (https://www.freecadweb.org/).
+
 For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files) folder.
 This section also includes build instructions.
 
