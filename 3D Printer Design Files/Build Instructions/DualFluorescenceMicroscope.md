@@ -47,6 +47,9 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
   * 2x Thorlabs AC254-125-A - f = 125 mm, Ø1" Achromatic Doublet, ARC: 400 - 700 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-125-A) - Tube lens for Fluorescence Channel
 * Cameras:
   * 2x Raspberry Pi High Quality Camera (https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/)
+  * 2x CP33/M - SM1-Threaded 30 mm Cage Plate, 0.35" Thick, 2 Retaining Rings, M4 Tap (https://www.thorlabs.com/thorproduct.cfm?partnumber=CP33/M)
+  * 2x Thorlabs SM1A9 - Adapter with External C-Mount Threads and Internal SM1 Threads, 4.4 mm Spacer (https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9)
+  * 2x Thorlabs SM1T2 - SM1 (1.035"-40) Coupler, External Threads, 0.5" Long, Two Locking Rings (https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1T2)
 * Objective:
   * 1x Newport LI-60x Microscope Objective Lens, Infinity Corrected, 60x, 0.85 NA, 0.3 mm WD (https://www.newport.com/p/LI-60X) - This objective has been discontinued, this is Newport's new equivalent: https://www.newport.com/p/LIO-60X
 * Cage rods:
