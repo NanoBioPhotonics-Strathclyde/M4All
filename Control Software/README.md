@@ -1,1 +1,19 @@
+# Control Software
 
+There are a couple of different options that we use for controlling our 3D printed microscopes, depending on the system. Note: We are not software engineers and so these options may not necessarily be optimal but for now they let us acquire the data that we need for our research.
+
+## Stepper Motor Control
+
+To control the stepper motors connected to the axis actuators on the OpenFlexure stage we use a PiStep2 Quad Stepper Motor Control Board for Raspberry Pi (https://4tronix.co.uk/blog/?p=1309). This is a hat for the Raspberry Pi GPIO pins and allows up to four stepper motors to directly connect to it. We have tested this with a Pi Zero W, Pi 3 Model B+ and Pi 4 Model B. To control the PiStep2 and the motors we have created a simple Python GUI based on Qt and PyQt5. The code can be found in [StepperMotorGUI](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/Control%20Software/StepperMotorGUI). To run the GUI, open and run the file start.py on your Raspberry Pi. The GUI should look like this:
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/StepperMotorGUI.png" height=300 width=450>
+
+The default value for the number of steps per click is 50. Altering this will let you control how far the stepper motor turns when you click on the arrow buttons for each axis.
+
+## Single Channel Brightfield Microscope
+
+To see the details of this microscope please go to [Single Channel Brightfield Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/SingleChannelBrightfield.md).
+
+The core components of this microscope are a basic LED for illumination, an OpenFlexure stage, a 60x finite conjugate objective and a Raspberry Pi Camera Module v2. We have created a simple GUI to control this microscope and take timelapse images on the Raspberry Pi camera. The code for this software can be found in [StepperMotorandLEDGUI](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/Control%20Software/StepperMotorandLEDGUI). Again, to run the GUI, open and run the file start.py on your RaspberryPi. The GUI should look like this:
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/StepperMotorandLEDGUI.png" height=600 width=500>
