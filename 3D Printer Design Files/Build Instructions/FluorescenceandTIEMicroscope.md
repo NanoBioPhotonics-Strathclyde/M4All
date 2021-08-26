@@ -50,7 +50,7 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
 * Second turning mirror:
   * 1x Thorlabs PFR10-P01 - 25 mm x 36 mm Protected Silver Mirror (https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01)
 * ND filters for brightfield TIE channels:
-* 3x Thorlabs ND30B - Unmounted Reflective Ø25 mm ND Filter, Optical Density: 3.0 (https://www.thorlabs.com/thorproduct.cfm?partnumber=ND30B)
+  * 3x Thorlabs ND30B - Unmounted Reflective Ø25 mm ND Filter, Optical Density: 3.0 (https://www.thorlabs.com/thorproduct.cfm?partnumber=ND30B)
 * Longpass filter to clean up fluorescence channel:
   * 1x Thorlabs FEL0650 - Ø1" Longpass Filter, Cut-On Wavelength: 650 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=FEL0650)
 * Tube lenses:
