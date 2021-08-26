@@ -27,8 +27,51 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
 * 4x Drop In Filter Holder
 * 1 x Fluorescence Branch
 * 1x Fluorescence Channel Lid
+* 1x OpenFlexure Joined to Objective Mount
+* 1x OpenFlexure Sample Riser Shortened
 * 1x OpenFlexure Stage Adapter Corner Cut Out
+* 3x Plate Locker
 * 3x TIE Branch
 * 3x TIE Channel Lid
 * 3x Raspberry Pi Camera V2 Holder
+
+## Bill of Materials
+
+* Light source:
+  * 1x Thorlabs CPS532 Collimated Laser Diode (https://www.thorlabs.com/thorproduct.cfm?partnumber=CPS532)
+  * Lens to focus laser down onto sample, such as Thorlabs LB1945-A - N-BK7 Bi-Convex Lens, Ø1", f = 200.0 mm, ARC: 350-700nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=LB1945-A)
+* Turning mirror:
+  * 1x Thorlabs PF10-03-P01 - Ø1" Protected Silver Mirror (https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01)
+* Dichroic Mirror for fluorescence channel:
+  * 1x Thorlabs DMSP650 - Ø1" Shortpass Dichroic Mirror, 650 nm Cutoff (https://www.thorlabs.com/thorproduct.cfm?partnumber=DMSP650)
+* Beamsplitters for brightfield TIE channels:
+  * 1x Thorlabs BSS10R - 25 x 36 mm 30:70 (R:T) UVFS Plate Beamsplitter, Coating: 400 - 700 nm, t = 1 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=BSS10R)
+  * 1x Thorlabs BSW10R - 25 x 36 mm 50:50 UVFS Plate Beamsplitter, Coating: 400 - 700 nm, t = 1 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=BSW10R)
+* Second turning mirror:
+  * 1x Thorlabs PFR10-P01 - 25 mm x 36 mm Protected Silver Mirror (https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01)
+* ND filters for brightfield TIE channels:
+  * 3x Thorlabs ND30B - Unmounted Reflective Ø25 mm ND Filter, Optical Density: 3.0 (https://www.thorlabs.com/thorproduct.cfm?partnumber=ND30B)
+* Longpass filter to clean up fluorescence channel:
+  * 1x Thorlabs FEL0650 - Ø1" Longpass Filter, Cut-On Wavelength: 650 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=FEL0650)
+* Tube lenses:
+  * 1x Thorlabs AC254-125-A - f = 125 mm, Ø1" Achromatic Doublet, ARC: 400 - 700 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-125-A) - Tube lens for Fluorescence Channel
+  * 3x Thorlabs AC254-045-A - f = 45 mm, Ø1" Achromatic Doublet, ARC: 400 - 700 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-045-A) - Tube lenses for brightfield TIE channels - Due to field distortion and vignetting that occurs when these are used in combination with the Newport LI-40x objective, we now recommend using a longer focal length for the tube lens, such as Thorlabs AC254-100-A - f = 100 mm, Ø1" Achromatic Doublet, ARC: 400 - 700 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-100-A)
+* Cameras:
+  * IDS UI-3060CP-M-GL Rev.2 (https://en.ids-imaging.com/store/ui-3060cp-rev-2.html) - Fluorescence channel
+  * 3x Raspberry Pi Camera Module v2 (https://www.raspberrypi.org/products/camera-module-v2/) - TIE channels
+* Objective:
+  * 1x Newport LI-40x Microscope Objective Lens, Infinity Corrected, 40x, 0.65 NA, 0.36 mm WD (https://www.newport.com/p/LI-40X) - This objective has been discontinued, this is Newport's new equivalent: https://www.newport.com/p/LIO-40X
+* Cage rods:
+  * 10x Thorlabs ER4 - Cage Assembly Rod, 4" Long, Ø6 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=ER4)
+  * 4x Thorlabs ER6 - Cage Assembly Rod, 6" Long, Ø6 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=ER6)
+  * An equivalent to the Thorlabs rods is to buy lower cost stainless steel 6mm diameter rods. For example we bought 1.5m long rods from RS Components and cut them down to size - https://uk.rs-online.com/web/p/metal-bars-metal-rods/6614680/
+* Electronics:
+  * 4x Raspberry Pi Zero W (We recommend getting a starter kit, such as https://uk.rs-online.com/web/p/raspberry-pi/1812039/ so that everything you need is included)
+  * 1x Raspberry Pi 4 8gb (Again recommend a starter kit https://uk.rs-online.com/web/p/raspberry-pi/2012367)
+  * 3x Raspberry Pi Camera Cable - Raspberry Pi Zero edition (https://shop.pimoroni.com/products/camera-cable-raspberry-pi-zero-edition?variant=32092803891283)
+  * 1x PiStep2 Quad Stepper Controller for Raspberry Pi (https://4tronix.co.uk/blog/?p=1309)
+  * 3x 28BYJ-48 5V DC Stepper Motor (https://shop.pimoroni.com/products/5-vdc-stepper-motor-with-uln2003-driver-board)
+
+
+
 
