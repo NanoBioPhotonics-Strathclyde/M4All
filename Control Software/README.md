@@ -19,3 +19,13 @@ The core components of this microscope are a basic LED for illumination, an Open
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/StepperMotorandLEDGUI.png" height=600 width=500>
 
 This includes control to switch an LED, which is connected to the PiStep2 hat, on and off. Again, please follow the link to the microscope details above for how to connect this. The same stepper motor control as above is included as well as a section to control the Raspberry Pi Camera. A camera preview can be initiated which allows you to view a live feed whilst controlling the stepper motors. When happy with the position, the camera preview must be stopped before starting a timelapse. To start the timelapse, set the desired camera resolution, the total number of frames required and the interval between each frame. Then select a save directory and click start timelapse. When the timelapse is running a camera preview will also be shown.
+
+## Multi Channel Microscopes
+
+Multi channel microscopes using multiple Raspberry Pi cameras, such as our [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md) and [Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md) require more complex software solutions. This is due to the fact that a Raspberry Pi can only connect to and control a single Raspberry Pi camera module. Because of this, if you want to use multiple Pi cameras, you need to use and control multiple Pi's.
+
+Our current method of choice is to use a Raspberry Pi 4 Model B 8gb as a client Pi. We then connect each camera and the stepper motor hat to separate Pi's as can be seen in the microscope links above. We connect the client and server Pi's all to the same network.
+
+To view the camera previews and control the stepper motors we use VNC (Virtual Network Computing) to remote access the server Pi desktops on the client Pi, so that only the client pi needs to be connected to a monitor, mouse and keyboard.
+
+
