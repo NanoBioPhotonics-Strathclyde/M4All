@@ -26,6 +26,6 @@ Multi channel microscopes using multiple Raspberry Pi cameras, such as our [Fluo
 
 Our current method of choice is to use a Raspberry Pi 4 Model B 8gb as a client Pi. We then connect each camera and the stepper motor hat to separate Pi's as can be seen in the microscope links above. We connect the client and server Pi's all to the same network.
 
-To view the camera previews and control the stepper motors we use VNC (Virtual Network Computing) to remote access the server Pi desktops on the client Pi, so that only the client pi needs to be connected to a monitor, mouse and keyboard.
+To view the camera previews and control the stepper motors we use VNC (Virtual Network Computing) to remote access the server Pi desktops on the client Pi, so that only the client pi needs to be connected to a monitor, mouse and keyboard. For example in the image below you can see one remote desktop on the client Pi has one of the camera previews and the other has the stepper motor control GUI. You can open multiple remote desktops at once and so can have all the camera previews open. If using v2 camera modules, Pi Zero Ws work for the server Pi's, if using HQ camera modules we recommend using at least Pi 3B+ or optimally Pi 4 8GB.
 
-
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/VNCExample.png" height=525 width=900>
