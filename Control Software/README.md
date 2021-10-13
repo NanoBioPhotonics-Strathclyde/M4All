@@ -10,6 +10,8 @@ To control the stepper motors connected to the axis actuators on the OpenFlexure
 
 The default value for the number of steps per click is 50. Altering this will let you control how far the stepper motor turns when you click on the arrow buttons for each axis.
 
+Note: you will need to set up the Pi as outlined [here](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Control%20Software/SingleChannelPiSetup.md) for the code to run.
+
 ## Single Channel Brightfield Microscope
 
 To see the details of this microscope please go to [Single Channel Brightfield Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/SingleChannelBrightfield.md).
@@ -19,6 +21,8 @@ The core components of this microscope are a basic LED for illumination, an Open
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/StepperMotorandLEDGUI.png" height=600 width=500>
 
 This includes control to switch an LED, which is connected to the PiStep2 hat, on and off. Again, please follow the link to the microscope details above for how to connect this. The same stepper motor control as above is included as well as a section to control the Raspberry Pi Camera. A camera preview can be initiated which allows you to view a live feed whilst controlling the stepper motors. When happy with the position, the camera preview must be stopped before starting a timelapse. To start the timelapse, set the desired camera resolution, the total number of frames required and the interval between each frame. Then select a save directory and click start timelapse. When the timelapse is running a camera preview will also be shown.
+
+Note: you will need to set up the Pi as outlined [here](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Control%20Software/SingleChannelPiSetup.md) for the code to run.
 
 ## Multi Channel Microscopes
 
