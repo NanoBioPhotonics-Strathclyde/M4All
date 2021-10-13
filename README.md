@@ -1,4 +1,4 @@
-# M<sup>4</sup>: MultiModal Modular Microscopy
+# M4All: MultiModal Modular Microscopy for All
 
 M4All is a modular 3D printable microscopy system which allows users to design setups for different imaging modalities (can also be used for non-imaging optical systems). The project is led by Gemma Cairns as part of her PhD in the NanoBioPhotonics group at the University of Strathclyde. Other significant contributers from the group are Brian Patton and past member Stephen Grant.
 
@@ -18,13 +18,15 @@ To address the differences in printing tolerances between different 3D printers,
 
 ## Applications
 
-We have used this system to design and build two different microscopes.
+We have used this system to design and build multiple different microscopes.
 
-The first is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md):
+The first is a [Single Channel Brightfield Microscope](). We recommend new users to our system build one of these first to understand our approach and calibrate their 3D printer for our designs.
+
+The next is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md) which shows the level of complexity that can be successfully implemented with our designs:
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TIEMicroscope2.png" height=425 width=800>
 
-The second is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md):
+The third is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md) which we have successfully used in a research project to acquire images of bacteria and mitochondria in human monocyte derived macrophages. This microscope takes fluorescence images with the latest Raspberry Pi HQ cameras.
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=450 width=800>
 
