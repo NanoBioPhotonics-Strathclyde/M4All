@@ -53,7 +53,7 @@ Note: Currently this needs to be done manually for all sketches and bodies/parts
 
 ### Joining Cube Designs Together
 
-The modularity of the M<sup>4</sup> system comes from modular design files which can be joined together before printing to create stable larger parts. Each 50x50mm cube has M6 screw holes on the bottom for fixing to an optical table, jigsaw lid system and 6mm metal rod holes for a 30mm cage system. By joining different cube designs together, users can create suitable parts for their optical systems. The clip below shows how to join two cubes together. 
+The modularity of the M4All system comes from modular design files which can be joined together before printing to create stable larger parts. Each 50x50mm cube has M6 screw holes on the bottom for fixing to an optical table, jigsaw lid system and 6mm metal rod holes for a 30mm cage system. By joining different cube designs together, users can create suitable parts for their optical systems. The clip below shows how to join two cubes together. 
 
 1. From the tree menu on the left hand side, duplicate the required cubes (FreeCAD Body) using Ctrl+C and Ctrl+V either into the same FreeCad file or a new file. The duplicates will be in the same position as the original bodies.
 2. To move the position of the cubes, click on the body in the tree view and alter the x and y positions. As the cubes are 50x50mm, offsetting them in 50mm increments will allow the walls to be joined with the cut outs and rod holes aligning with each other.
