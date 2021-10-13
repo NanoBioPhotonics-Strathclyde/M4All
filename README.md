@@ -39,6 +39,8 @@ Note: We used FreeCAD version 0.18 which can be found here https://github.com/Fr
 For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files) folder.
 This section also includes build instructions.
 
+Note: We have also included modified designs from the OpenFlexure project (https://openflexure.org/projects/microscope/). Original designs and modifications are detailed in the design folders in accordance with the CERN Open Hardware Licence.
+
 ## Control Software
 
 For microscope control software please see [Control Software](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/Control%20Software). 
