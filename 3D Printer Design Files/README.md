@@ -2,6 +2,8 @@
 
 Original FreeCAD design files are in the [FreeCAD Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/FreeCAD%20Files) folder.
 
+Note: We used FreeCAD version 0.18 which can be found here https://github.com/FreeCAD/FreeCAD/releases if there are any compatibility issues with newer releases.
+
 STL files for 3D printing can be found in the [STL Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/STL%20Files) folder.
 
 ## FreeCAD Instructions
