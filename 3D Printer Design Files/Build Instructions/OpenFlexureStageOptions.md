@@ -1,6 +1,6 @@
 # OpenFlexure Options
 
-We needed to make a couple of modifications to the OpenFlexure stage for it to be compatible with our modular system. The first is the objective mount was too long and wouldn't allow a turning mirror to sit underneath the stage in one of our cubes, so we altered the objective mount to make it shorter. The second was we encountered problems with tilt of the objective mount when screwing it onto the stage, therefore we combined the designs for the stage and the objective mount to print them together monolithically.
+We needed to make a couple of modifications to the OpenFlexure stage for it to be compatible with our modular system. The first is the objective mount was too long and wouldn't allow a turning mirror to sit underneath the stage in one of our cubes, so we altered the objective mount to make it shorter. The second was we encountered problems with tilt of the objective mount when screwing it onto the stage, therefore we combined the designs for the stage and the objective mount to print them together monolithically. We think this wasn't a fault of the stage design but a fault in the calibration of our 3D printer, commonly known as "elephant foot". By making these two parts monolithic we avoid the need to worry about this calibration error.
 
 These parts were printed with the settings recommended by OpenFlexure (https://build.openflexure.org/openflexure-microscope/v6.1.5/docs/#/0_printing).
 
