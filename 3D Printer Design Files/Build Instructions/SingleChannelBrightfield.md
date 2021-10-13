@@ -20,5 +20,27 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
 * 1x OpenFlexure Sample Riser Shortened
 * 1x OpenFlexure Stage Adapter
 * 1x Raspberry Pi Camera V2 Holder
+* 1x 45 Degree Mirror Holder
 
-Also from the OpenFlexure [website](https://microscope-stls.openflexure.org/#/v6.1.5?enable_smart_brim=true&reflection_illumination=false&optics=rms_f50d13&camera=picamera_2&use_pilens_optics_module=false&riser=sample&microscope_stand%3Abox_h=30&pi_in_base=true&base=bucket&legacy_picamera_tools=false&include_actuator_tension_band=false&include_actuator_drilling_jig=false&motorised=true&use_motor_gears_for_hand_actuation=false) please print the gears, small gears, sample clips, condenser and illumination dovetail.
+Also from the OpenFlexure [website](https://microscope-stls.openflexure.org/#/v6.1.5?enable_smart_brim=true&reflection_illumination=false&optics=rms_f50d13&camera=picamera_2&use_pilens_optics_module=false&riser=sample&microscope_stand%3Abox_h=30&pi_in_base=true&base=bucket&legacy_picamera_tools=false&include_actuator_tension_band=false&include_actuator_drilling_jig=false&motorised=true&use_motor_gears_for_hand_actuation=false) please print the gears, small gears, sample clips, condenser and illumination dovetail STL files.
+
+## Bill of Materials
+
+* Light source:
+  * Low cost LED
+* Turning mirror:
+  * 1x Thorlabs PF10-03-P01 - Ø1" Protected Silver Mirror (https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01)
+* Camera:
+  * 1x Raspberry Pi Camera Module v2 (https://www.raspberrypi.org/products/camera-module-v2/)
+* Objective:
+  * 1x Newport M-60X Microscope Objective Lens
+* Cage rods:
+  * 2x Thorlabs ER8 - Cage Assembly Rod, 8" Long, Ø6 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=ER8)
+  * 2x Thorlabs ER6 - Cage Assembly Rod, 6" Long, Ø6 mm (https://www.thorlabs.com/thorproduct.cfm?partnumber=ER6)
+  * An equivalent to the Thorlabs rods is to buy lower cost stainless steel 6mm diameter rods. For example we bought 1.5m long rods from RS Components and cut them down to size - https://uk.rs-online.com/web/p/metal-bars-metal-rods/6614680/
+* Electronics:
+  * 1x Raspberry Pi 4 8gb (Recommend a starter kit https://uk.rs-online.com/web/p/raspberry-pi/2012367)
+  * Jumper cables (https://shop.pimoroni.com/products/jumper-jerky?variant=348491271)
+
+
+
