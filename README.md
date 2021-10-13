@@ -22,24 +22,24 @@ We have used this system to design and build multiple different microscopes.
 
 The first is a [Single Channel Brightfield Microscope](). We recommend new users to our system build one of these first to understand our approach and calibrate their 3D printer for our designs.
 
-The next is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md) which shows the level of complexity that can be successfully implemented with our designs:
+The next is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md) which shows the level of complexity that can be successfully implemented with our designs:
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/TIEMicroscope2.png" height=425 width=800>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/TIEMicroscope2.png" height=425 width=800>
 
-The third is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md) which we have successfully used in a research project to acquire images of bacteria and mitochondria in human monocyte derived macrophages. This microscope takes fluorescence images with the latest Raspberry Pi HQ cameras.
+The third is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/DualFluorescenceMicroscope.md) which we have successfully used in a research project to acquire images of bacteria and mitochondria in human monocyte derived macrophages. This microscope takes fluorescence images with the latest Raspberry Pi HQ cameras.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=450 width=800>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/DualFluorescenceMicroscope2.png" height=450 width=800>
 
 ## Design Files and Build Instructions
 
 All of our designs are produced using the open source CAD software FreeCAD (https://www.freecadweb.org/).
 
-For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files) folder.
+For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files) folder.
 This section also includes build instructions.
 
 ## Control Software
 
-For microscope control software please see [Control Software](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/Control%20Software).
+For microscope control software please see [Control Software](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/Control%20Software).
 
 ## Multichannel Alignment and Calibration Tools
 
