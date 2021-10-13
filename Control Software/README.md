@@ -29,3 +29,7 @@ Our current method of choice is to use a Raspberry Pi 4 Model B 8gb as a client 
 To view the camera previews and control the stepper motors we use VNC (Virtual Network Computing) to remote access the server Pi desktops on the client Pi, so that only the client pi needs to be connected to a monitor, mouse and keyboard. For example in the image below you can see one remote desktop on the client Pi has one of the camera previews and the other has the stepper motor control GUI. You can open multiple remote desktops at once and so can have all the camera previews open. If using v2 camera modules, Pi Zero Ws work for the server Pi's, if using HQ camera modules we recommend using at least Pi 3B+ or optimally Pi 4 8GB.
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/VNCExample.png" height=525 width=900>
+
+Using the remote desktop approach above, you can capture images from individual cameras using Raspicam (https://www.raspberrypi.com/documentation/accessories/camera.html#raspicam-commands) or Picamera (https://picamera.readthedocs.io/en/release-1.13/). This will save images to the individual pi's that the cameras are connected to and you cannot take images simultaneously.
+
+If you would like to capture images "simultaneously" and save the images to the client Pi then the solution we have been using is the Compound Pi project (https://compoundpi.readthedocs.io/en/release-0.4/). 
