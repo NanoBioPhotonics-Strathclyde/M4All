@@ -2,7 +2,7 @@
 
 This section of the FreeCAD file includes designs where we have placed the individual cube designs together to create larger parts for 3D printing. These designs are specifically for parts for a dual fluorescence channel microscope. The wavelength ranges of the detection channels can be chosen by the user by selecting specific dichroic mirrors. In this case we have chosen a 650nm shortpass dichroic mirror and a 490nm shortpass dichroic mirror to create two detection channels, one which detects fluorescence above 650nm and the other which detects fluorescence between 490nm and 650nm.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=1000>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=950>
 
 ## Parts to Print
 
