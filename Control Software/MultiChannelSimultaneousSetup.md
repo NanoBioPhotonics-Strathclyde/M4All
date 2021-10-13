@@ -85,6 +85,8 @@ Compound Pi allows the simultaneous capture (within limits) of images from diffe
 
 * sudo service cpid stop
 
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/cpidstop.png" height=500 width=900>
+
 Once you have done this you will be able to either use Raspicam or Picamera to view the camera preview on the remote desktop. This will allow you to get your sample into position and focus etc. Then once you are happy and would like to capture images, open the terminal again and type:
 
 * sudo service cpid start
@@ -110,5 +112,5 @@ Then type:
 
 You can change the camera settings above and set the output to a folder on the client where you want the images to save to. When you type capture, the servers all capture an image on their Pi camera and then download pulls them over to the client. When you download them it also clears the images from the servers.
 
-
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/cpi.png" height=500 width=900>
 
