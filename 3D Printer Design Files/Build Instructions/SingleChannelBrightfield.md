@@ -4,7 +4,7 @@ This section of the FreeCAD file includes designs where we have placed the indiv
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/SingleChannelBrightfield2.png" height=500 width=425>
 
-The PiStep2 motor control board has 4 stepper motor connectors. On each of these connectors there is one ground pin and 4 pins which connect to the Raspberry Pi GPIO pins. As we only need to use three stepper motors for the OpenFlexure stage, there is one spare. This spare one can be used to connect to the LED to control it via GPIO. Using jumper cables connect the cathode of the LED to the ground pin and the anode to one of the other pins on the connector, as shown in the above photo. You should also connect a resistor between the anode and the connector pin. The ground pin on the connector is the one which is not connected to an indicator LED.
+The PiStep2 motor control board has 4 stepper motor connectors. On each of these connectors there is one ground pin and 4 pins which connect to the Raspberry Pi GPIO pins. As we only need to use three stepper motors for the OpenFlexure stage, there is one spare. This spare one can be used to connect to the LED to control it via GPIO. Using jumper cables connect the cathode of the LED to the ground pin on connector M1. Then connect the anode to the pin on connector M1 which corresponds to GPIO pin 23 on the pi, as shown in the above photo. This should be the pin furthest away from the ground pin. You should also connect a resistor between the anode and the connector pin. The ground pin on the connector is the one which is not connected to an indicator LED.
 
 ## Parts to Print
 
