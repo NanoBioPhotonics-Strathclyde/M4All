@@ -14,7 +14,7 @@ To address the differences in printing tolerances between different 3D printers,
 
 ## Applications
 
-We have used this sytem to design and build two different microscopes.
+We have used this system to design and build two different microscopes.
 
 The first is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md):
 
