@@ -35,6 +35,8 @@ STL files to print (print settings can be found in the [Cubes](https://github.co
 * 3x TIE Channel Lid
 * 3x Raspberry Pi Camera V2 Holder
 
+Also from the OpenFlexure [website](https://microscope-stls.openflexure.org/#/v6.1.5?enable_smart_brim=true&reflection_illumination=false&optics=rms_f50d13&camera=picamera_2&use_pilens_optics_module=false&riser=sample&microscope_stand%3Abox_h=30&pi_in_base=true&base=bucket&legacy_picamera_tools=false&include_actuator_tension_band=false&include_actuator_drilling_jig=false&motorised=true&use_motor_gears_for_hand_actuation=false) please print the gears, small gears and sample clips STL files.
+
 ## Bill of Materials
 
 * Light source:
