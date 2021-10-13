@@ -8,10 +8,10 @@ These parts were printed with the settings recommended by OpenFlexure (https://b
 
 We imported the STL file for the OpenFlexure Objective mount (named "optics_picamera_2_rms_f50d13.stl" from https://openflexure.org/projects/microscope/build) into FreeCAD and edited it following the instructions found here for editing STL files in FreeCAD - https://all3dp.com/1/7-free-stl-editors-edit-repair-stl-files/. All we did was cut the bottom of the mount off in FreeCAD to make it shorter.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenFlexureObjectiveMount.png" height=300 width=800>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/OpenFlexureObjectiveMount.png" height=300 width=800>
 
 # OpenFlexure Stage Option
 
 To join the designs of the above objective mount together with the OpenFlexure Stage, we imported the STL file for the desired OpenFlexure stage into FreeCAD, then duplicated the objective mount design and moved it so that it was flush with the stage design. We added both these files to a "part" in FreeCAD and then exported the part as an STL file. We then also edited the OpenFlexure sample riser (named sample_riser_LS10.stl from https://openflexure.org/projects/microscope/build) using the same process as for the objective mount to shorten it for our specific objective. This is needed because the position of the objective mount is now fixed. The objective this is designed for is the Newport LI-60x (https://www.newport.com/p/LI-60X). This objective is no longer available however it has a standard parfocal length of 45mm and so this stage option should be compatible with other 45mm parfocal RMS threaded objectives.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenFlexureStageOptions.png" height=450 width=600>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/OpenFlexureStageOptions.png" height=450 width=600>

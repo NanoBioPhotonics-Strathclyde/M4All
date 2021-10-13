@@ -4,6 +4,6 @@ The OpenFlexure stage is a 3D printable 3 axis control microscope stage (https:/
 
 We print this with 0.15mm layer height and 80% and higher infill. Support material is also required for the elastic band bars, this can either be standard PLA or PVA. It is best to print this piece with the jigsaw system facing up.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenFlexureStageAdapter.png" height=425 width=1000>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/OpenFlexureStageAdapter.png" height=425 width=1000>
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenFlexureStageAdapter2.png" height=425 width=800>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/OpenFlexureStageAdapter2.png" height=425 width=800>

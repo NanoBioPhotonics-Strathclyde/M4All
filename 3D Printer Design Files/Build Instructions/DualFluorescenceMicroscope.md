@@ -2,17 +2,17 @@
 
 This section of the FreeCAD file includes designs where we have placed the individual cube designs together to create larger parts for 3D printing. These designs are specifically for parts for a dual fluorescence channel microscope. The wavelength ranges of the detection channels can be chosen by the user by selecting specific dichroic mirrors. In this case we have chosen a 650nm shortpass dichroic mirror and a 490nm shortpass dichroic mirror to create two detection channels, one which detects fluorescence above 650nm and the other which detects fluorescence between 490nm and 650nm.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=950>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=950>
 
 ## Parts to Print
 
-All the STL files needed for this microscope can be found in [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Dual%20Fluorescence%20Channel%20Microscope).
+All the STL files needed for this microscope can be found in [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Dual%20Fluorescence%20Channel%20Microscope).
 
 These are the two main cube parts and lids:
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/DualFluorescenceMicroscope.png" height=600 width=625>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/DualFluorescenceMicroscope.png" height=600 width=625>
 
-STL files to print (print settings can be found in the [Cubes](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Cubes.md) and [Inserts](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Inserts.md) build instructions):
+STL files to print (print settings can be found in the [Cubes](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Cubes.md) and [Inserts](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Inserts.md) build instructions):
 
 * 2x 1 Inch Dichroic Holder
 * 2x 1 Inch Lens Holder

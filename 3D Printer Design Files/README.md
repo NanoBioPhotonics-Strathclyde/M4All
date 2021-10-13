@@ -1,14 +1,14 @@
 # Build Instructions
 
-Original FreeCAD design files are in the [FreeCAD Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/FreeCAD%20Files) folder.
+Original FreeCAD design files are in the [FreeCAD Files](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/FreeCAD%20Files) folder.
 
 Note: We used FreeCAD version 0.18 which can be found here https://github.com/FreeCAD/FreeCAD/releases if there are any compatibility issues with newer releases.
 
-STL files for 3D printing can be found in the [STL Files](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/STL%20Files) folder.
+STL files for 3D printing can be found in the [STL Files](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/STL%20Files) folder.
 
 ## FreeCAD Instructions
 
-Upon opening the FreeCAD file named "Designs" you will see that the designs are all grouped into different areas (further information on these can be found in [Build Instructions](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/Build%20Instructions)):
+Upon opening the FreeCAD file named "Designs" you will see that the designs are all grouped into different areas (further information on these can be found in [Build Instructions](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/Build%20Instructions)):
 
 * **Cubes**:
   * **Basic Cubes** are the basic building blocks of the modular system. Included are various cube designs with different numbers of sides cut out for joining together in different orientations for the optical system that the user requires. The cubes have screw holes in the bottom to allow them to be screwed onto an optical table, using M6 screws, for stability and to lock separate parts together. The cubes have 6mm rod holes compatible with 30mm cage system optomechanics.

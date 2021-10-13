@@ -2,7 +2,7 @@
 
 The cubes and lids are all printed in the same orientation that they appear on FreeCAD, with the exception of the locking plates for the beamsplitter cubes - these will need to be reorientated in your 3D printing software such as Cura. We print the cubes and lids on our Ultimaker S5 with a layer height of 0.15mm and infill of 80% or more. In order to avoid needing to use support material for the cubes, I also enable bridge settings on Cura with the settings as shown below:
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BridgeSettings.png" height=425 width=400>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/BridgeSettings.png" height=425 width=400>
 
 ## Basic Cubes
 
@@ -13,7 +13,7 @@ The image below shows the various cube designs under "Basic Cubes". These are as
   * Then there is one with three walls and one with all four walls cut out to allow junctions between branches.
   * Finally we have provided one where the end wall has a slot for a raspberry pi camera cable. 
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/Cubes.PNG" height=425 width=700>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/Cubes.PNG" height=425 width=700>
 
 ## Open Ended Cubes
 
@@ -21,7 +21,7 @@ The next section is "Open Ended Cubes". These can be used in the case where you 
   * The first has one side open ended. You can join two of these together to create a 100mm long cube.
   * The second has both sides open ended so if you require longer than 100mm then you can place as many of these in the middle of two single open ended cubes as required.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/OpenEndedCubes.png" height=350 width=500>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/OpenEndedCubes.png" height=350 width=500>
 
 ## 25mm x 36mm Beamsplitter Cubes
   
@@ -39,10 +39,10 @@ For option 2, if you find that your optical element is not sitting completely ve
 
 Option 3 has not yet been fully tested.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/BeamsplitterCubes.png" height=350 width=1000>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/BeamsplitterCubes.png" height=350 width=1000>
 
 ## Cube Lids
 
 There are two screwless lids that fix onto the top of the cubes using a jigsaw system to allow a light tight optical setup. One is a lid that covers one full cube. The other is half a lid (split diagonally) to cover half a cube. This second option is to fit with the second option OpenFlexure stage adapter (see build instructions). These lids can be joined together in FreeCAD to print monolithically to cover multiple cubes.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/Lids.png" height=350 width=550>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/Lids.png" height=350 width=550>

@@ -29,7 +29,7 @@ Now open a terminal on the Raspberry Pi and install the following:
 
 All other packages such as numpy, RPi.GPIO, threading etc. should already be installed with Raspberry Pi OS.
 
-For the server Pi that will be used to control the stage stepper motors also save a copy of the [StepperMotorGUI](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/Control%20Software/StepperMotorGUI) to the Pi.
+For the server Pi that will be used to control the stage stepper motors also save a copy of the [StepperMotorGUI](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/Control%20Software/StepperMotorGUI) to the Pi.
 
 To enable VNC follow step 1 here: https://magpi.raspberrypi.com/articles/vnc-raspberry-pi
 

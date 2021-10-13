@@ -2,17 +2,17 @@
 
 This section of the FreeCAD file includes designs where we have placed the individual cube designs together to create larger parts for 3D printing. These designs are specifically for parts for a single channel brightfield microscope. This microscope includes a low cost LED which can be controlled using the PiStep2 stepper motor hat for a Raspberry Pi, a finite conjugate objective and a Raspberry Pi v2 camera. If you wanted you could also swap the finite conjugate objective for an infinity corrected one and then add a tube lens between the objective and camera using on of our lens inserts.
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/SingleChannelBrightfield2.png" height=500 width=425>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/SingleChannelBrightfield2.png" height=500 width=425>
 
 The PiStep2 motor control board has 4 stepper motor connectors. On each of these connectors there is one ground pin and 4 pins which connect to the Raspberry Pi GPIO pins. As we only need to use three stepper motors for the OpenFlexure stage, there is one spare. This spare one can be used to connect to the LED to control it via GPIO. Using jumper cables connect the cathode of the LED to the ground pin on connector M1. Then connect the anode to the pin on connector M1 which corresponds to GPIO pin 23 on the pi. **Note: I need to check this and also update the above photo to the newest setup which corresponds with the python code.** You should also connect a resistor between the anode and the connector pin. The ground pin on the connector is the one which is not connected to an indicator LED.
 
 ## Parts to Print
 
-All the STL files for this microscope can be found in [Single Channel Brightfield](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Single%20Channel%20Brightfield).
+All the STL files for this microscope can be found in [Single Channel Brightfield](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Single%20Channel%20Brightfield).
 
-<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/Images/SingleChannelBrightfield.png" height=500 width=550>
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/SingleChannelBrightfield.png" height=500 width=550>
 
-STL files to print (print settings can be found in the [Cubes](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Cubes.md) and [Inserts](https://github.com/NanoBioPhotonics-Strathclyde/M4-MultiModal-Modular-Microscopy/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Inserts.md) build instructions):
+STL files to print (print settings can be found in the [Cubes](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Cubes.md) and [Inserts](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/Inserts.md) build instructions):
 
 * 1x Single Channel Brightfield
 * 1x Single Channel Brightfield Lid
