@@ -50,3 +50,9 @@ Note: We are not software engineers and so these options may not necessarily be 
 ## Multichannel Alignment and Calibration Tools
 
 Coming soon...
+
+## Licence
+
+Our hardware designs are licenced under the CERN Open Hardware Licence v1.2.
+
+Our software is licenced under the GNU General Public License v3.0,
