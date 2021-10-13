@@ -38,8 +38,11 @@ Then open up VNC server, go to Options > Troubleshooting and check "Enable direc
 Also when you open VNC server note down the IP address that has been assigned to the Pi to use in VNC viewer. Or you also have the option to set a static IP address. To do this edit the dhcpcd file by typing sudo nano /etc/dhcpcd.conf into the terminal. Go down to the bottom and uncomment the below lines and change them to:
 	
 interface wlan0
+
 static ip_address=192.168.0.10/24 
+
 static routers=192.168.0.1
+
 static domain_name_servers=192.168.0.1
 
 For the static ip_address above you can set different server Pi's to 192.168.0.11/24, 192.168.0.12/24, 192.168.0.13/24 etc.
@@ -53,19 +56,24 @@ If VNC viewer on the client Pi cannot connect to a certain IP address then it ma
 Plug the server SD card into a windows computer. To the boot partition create a blank file using notebook and save it as ssh. Don't save it with a file extension. Then also create a file called wpa_supplicant.conf with the following wifi network info (changing the ssid and psk to your network info):
 
 country=GB
+
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+
 update_config=1
 
 network={
+
     ssid="NETWORK-NAME"
+    
     psk="NETWORK-PASSWORD"
+    
 }
 
 Once done, replace the SD card back into the server pi and boot.
 
 Then on your controller pi which is connected to the same network open a terminal and type in:
 
-ssh pi@192.168.0.16 
+ssh pi@192.168.0.10
 
 Replace the IP address above with whatever the IP address for the server Pi is.
 
