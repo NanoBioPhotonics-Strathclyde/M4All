@@ -49,7 +49,7 @@ FreeCAD is a parametric 3D CAD modeler, meaning 2D sketches are turned into 3D o
 
 Note: Currently this needs to be done manually for all sketches and bodies/parts.
 
-![](https://github.com/gemmacairns/3D-Printed-Microscopes/blob/master/3D%20Printer%20Design%20Files/Instruction%20Clips/EditRodHoleRadius.gif)
+![](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Instruction%20Clips/EditRodHoleRadius.gif)
 
 ### Joining Cube Designs Together
 
@@ -64,7 +64,7 @@ Parts in the "Fluorescence and TIE Microscope" and "Dual Fluorescence Channel Mi
 
 Individual cube lids can also be joined together in this way to create monolithically printed lids to cover your specific cube designs. 
 
-![](https://github.com/gemmacairns/3D-Printed-Microscopes/blob/master/3D%20Printer%20Design%20Files/Instruction%20Clips/HowToJoinCubes.gif)
+![](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Instruction%20Clips/HowToJoinCubes.gif)
 
 
 
