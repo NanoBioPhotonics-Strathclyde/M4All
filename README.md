@@ -34,6 +34,8 @@ The third is a [Dual Fluorescence Channel Microscope](https://github.com/NanoBio
 
 All of our designs are produced using the open source CAD software FreeCAD (https://www.freecadweb.org/).
 
+Note: We used FreeCAD version 0.18 which can be found here https://github.com/FreeCAD/FreeCAD/releases if there are any compatibility issues with newer releases.
+
 For FreeCAD and STL design files please see the [3D Printer Design Files](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files) folder.
 This section also includes build instructions.
 
