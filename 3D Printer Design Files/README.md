@@ -29,7 +29,7 @@ Upon opening the FreeCAD file named "Designs" you will see that the designs are 
 
 ### Test Pieces
 
-As the tolerances of different models of 3D printers and different 3D printing materials vary, it is recommended to print the test parts provided to optimise print settings and design dimensions. 
+As the tolerances of different models of 3D printers and different 3D printing materials vary, it is recommended to print the test parts provided to optimise print settings and design dimensions. Tolerances also vary for printing in either the xy or z planes and so this is why there are two test piece orientations.
 
 1. **Rod Hole Test Piece Vertical** allows users to test what rod hole radius to use for the cube walls and any inserts or parts where the print orientation means the rod hole is on a vertical wall. The test piece includes rod hole radii ranging from 3-3.25mm. Three vertical walls are included in the test piece so users can check the 6mm metal rods go through multiple walls. Note: you want there to be enough friction that the rods don't slide about but not too much friction so that the rods can't easily go through multiple walls.
 2. **Rod Hole Test Piece Horizontal** includes two test pieces for testing what rod hole radius to use for any inserts or parts where the print orientation means the rod hole is on a horizontal wall. They cover radii from 3-3.55mm.
