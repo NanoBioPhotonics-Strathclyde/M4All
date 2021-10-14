@@ -6,6 +6,14 @@ Note: we are using the new Raspberry Pi HQ cameras in this microscope to capture
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=950>
 
+We have used this microscope in a research project to image mitochondria and bacteria inside human monocyte derived macrophages (samples made by Katharin Balbirnie-Cumming from the Dockrell group at the Centre for Inflammation Research, University of Edinburgh):
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/Macrophages.png" height=425 width=700>
+
+The dual colour image above followed the below processing steps for representation:
+
+<img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/ImageProcessing.png" height=475 width=900>
+
 ## Parts to Print
 
 All the STL files needed for this microscope can be found in [Dual Fluorescence Channel Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/tree/main/3D%20Printer%20Design%20Files/STL%20Files/Dual%20Fluorescence%20Channel%20Microscope).
