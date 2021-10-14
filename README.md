@@ -49,7 +49,7 @@ For microscope control software please see [Control Software](https://github.com
 
 Note: We are not software engineers and so these options may not necessarily be optimal but for now they let us acquire the data that we need for our research.
 
-## Multichannel Alignment and Calibration Tools
+## Multi Channel Alignment and Calibration Tools
 
 Coming soon...
 
