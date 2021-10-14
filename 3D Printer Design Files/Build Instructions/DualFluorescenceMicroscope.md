@@ -43,7 +43,7 @@ Also from the OpenFlexure [website](https://microscope-stls.openflexure.org/#/v6
 ## Bill of Materials
 
 * Light source:
-  * 1x Compact RGB Laser - World Star Tech COMPACT-TS-40-RGB-FC (https://www.world) - startech.com/wp-content/uploads/2017/03/COMPACT-RGB-1.pdf)
+  * 1x Compact RGB Laser - World Star Tech COMPACT-TS-40-RGB-FC (https://www.worldstartech.com/wp-content/uploads/2017/03/COMPACT-RGB-1.pdf)
   * 1x Thorlabs M42L05 - Ø50 µm, 0.22 NA, Low OH, FC/PC-FC/PC Fiber Patch Cable, 5 m (https://www.thorlabs.com/thorproduct.cfm?partnumber=M42L05)
   * 1x Thorlabs LB1811-A-ML - Mounted N-BK7 Bi-Convex Lens, Ø1", f = 35.0 mm, ARC: 350-700 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=LB1811-A-ML) - for focusing light from fibre onto sample)
   * 1x Thorlabs FESH0650 - Ø25.0 mm Premium Shortpass Filter, Cut-Off Wavelength: 650 nm (https://www.thorlabs.com/thorproduct.cfm?partnumber=FESH0650)
