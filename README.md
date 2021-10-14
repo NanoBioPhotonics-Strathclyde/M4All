@@ -59,6 +59,6 @@ Coming soon...
 
 ## Licence
 
-Our hardware designs are licenced under the CERN Open Hardware Licence v1.2.
+Our hardware designs are licenced under the CERN Open Hardware Licence Version 2 (CERN-OHL-S).
 
 Our software is licenced under the GNU General Public License v3.0.
