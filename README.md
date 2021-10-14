@@ -22,7 +22,7 @@ To address the differences in printing tolerances between different 3D printers,
 
 We have used this system to design and build multiple different microscopes.
 
-The first is a [Single Channel Brightfield Microscope](). We recommend new users to our system build one of these first to understand our approach and calibrate their 3D printer for our designs.
+The first is a [Single Channel Brightfield Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/SingleChannelBrightfield.md). We recommend new users to our system build one of these first to understand our approach and calibrate their 3D printer for our designs.
 
 The next is a [Fluorescence and TIE Microscope](https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/3D%20Printer%20Design%20Files/Build%20Instructions/FluorescenceandTIEMicroscope.md) which shows the level of complexity that can be successfully implemented with our designs:
 
