@@ -2,6 +2,8 @@
 
 This section of the FreeCAD file includes designs where we have placed the individual cube designs together to create larger parts for 3D printing. These designs are specifically for parts for a dual fluorescence channel microscope. The wavelength ranges of the detection channels can be chosen by the user by selecting specific dichroic mirrors. In this case we have chosen a 650nm shortpass dichroic mirror and a 490nm shortpass dichroic mirror to create two detection channels, one which detects fluorescence above 650nm and the other which detects fluorescence between 490nm and 650nm.
 
+Note: we are using the new Raspberry Pi HQ cameras in this microscope to capture fluorescence images. These cameras come with an IR filter on them which means if you are trying to image far red fluorescence, the emission will be blocked by the filter. You can follow the instructions [here](https://www.raspberrypi.com/documentation/accessories/camera.html#raspberry-pi-hq-camera-filter-removal) to remove this filter from the camera if using one of these cameras in this detection window.
+
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/DualFluorescenceMicroscope2.png" height=500 width=950>
 
 ## Parts to Print
