@@ -1,4 +1,5 @@
 # M4All: MultiModal Modular Microscopy for All
+[![DOI](https://zenodo.org/badge/379953786.svg)](https://zenodo.org/badge/latestdoi/379953786)
 
 M4All is a modular 3D printable microscopy system which allows users to design setups for different imaging modalities (can also be used for non-imaging optical systems). The project is led by Gemma Cairns as part of her PhD in the NanoBioPhotonics group at the University of Strathclyde. Other significant contributers from the group are Brian Patton and past member Stephen Grant.
 
