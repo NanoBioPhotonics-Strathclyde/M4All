@@ -10,7 +10,7 @@ We have used this microscope in a research project to image mitochondria and bac
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/Macrophages.png" height=425 width=700>
 
-The dual colour image above followed the below processing steps for representation:
+The dual colour image above followed the below processing steps. Image quality will be affected by sample preparation as well as microscope design. As you can see below, the bacteria image had a high background signal which we believe is background labelling and so we have carried out a rolling ball background subtraction for image representation.
 
 <img src="https://github.com/NanoBioPhotonics-Strathclyde/M4All/blob/main/Images/ImageProcessing.png" height=475 width=900>
 
